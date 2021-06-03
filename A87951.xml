@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Hampton-Court: of 600 horse and foot risen for the King at Hounslow-Heath, and Hare-warren. The duke of Buckingham with them. And the Lord Francis, the Duke of Richmond, The Lord Peter-borough, and divers lords, gentlemen, and officers of the Kings old souldiers, and their designe to take Lambeth House, and plant ordnance against the Parliament, and to surprize the Committee at Derby-House. And to raise the seige, or relieve Colchester with 2000 horse and foot.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87951</idno><idno type="EEBO-CITATION">99864673</idno>
+  <idno type="VID">161932</idno>
+  <idno type="EEBO-PROQUEST">2240905437</idno>
+  
+            <idno type="STC">Wing L1471</idno>
+            <idno type="STC">Thomason E451_16</idno>
+            <idno type="STC">ESTC R205256</idno>
+            <idno type="PROQUEST">99864673</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864673e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87951)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161932)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Hampton-Court: of 600 horse and foot risen for the King at Hounslow-Heath, and Hare-warren. The duke of Buckingham with them. And the Lord Francis, the Duke of Richmond, The Lord Peter-borough, and divers lords, gentlemen, and officers of the Kings old souldiers, and their designe to take Lambeth House, and plant ordnance against the Parliament, and to surprize the Committee at Derby-House. And to raise the seige, or relieve Colchester with 2000 horse and foot.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the generall satisfaction of moderate men,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letter is dated at end: Hampton Court July 5. 1648.</note>
+                  <note>Annotation on Thomason copy: "July 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161932:1"/>
+            <p>A LETTER from Hampton-Court: OF 600 Horse and Foot risen for the <hi>King</hi> at <hi>Hounslow-Heath,</hi> and <hi>Hare-warren.</hi>
+            </p>
+            <p>
+               <hi>The Duke of</hi> Buckingham <hi>with them.</hi>
+            </p>
+            <p>AND <hi>The Lord</hi> Francis, <hi>The Duke of</hi> Rich<g ref="char:EOLhyphen"/>mond, <hi>The Lord</hi> Peter-borough, <hi>and divers Lords, Gentlemen, and Officers of the Kings old</hi> SOULDIERS, And their designe to take <hi>Lambeth House,</hi> and plant Ordnance against the Parliament, and to sur<g ref="char:EOLhyphen"/>prize the Committee at <hi>Derby-House.</hi>
+            </p>
+            <p>
+               <hi>And to raise the siege, or relieve</hi> Colche<g ref="char:EOLhyphen"/>ster with 2000 horse and Foot.</p>
+            <p>LONDON, Printed for the generall satisfaction of moderate men. <hi>MDCXLVIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161932:2"/>
+            <pb n="1" facs="tcp:161932:2"/>
+            <head>
+               <hi>A LETTER FROM HAMPTON COVRT OF 600</hi> Horse risen for the King; And the Duke of <hi>Buckingham</hi> and divers other Lords in the Head of them.</head>
+            <opener>
+               <salute>Deare Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE are here suddainly surprized, and in <hi>I</hi> know not what conditi<g ref="char:EOLhyphen"/>on, we had talke yesterday and some days before that <hi>Surrey</hi> was
+<pb n="2" facs="tcp:161932:3"/>rising for the King, but could not understand the meaning of it:</p>
+            <p>But there is now a party risen, and quar<g ref="char:EOLhyphen"/>ter upon us, who declare for the King, and they expect a conjunction (and that sud<g ref="char:EOLhyphen"/>dainly) of a very considerable number.</p>
+            <p>The number of these horse that are alrea<g ref="char:EOLhyphen"/>dy amongst us are about 600.</p>
+            <p>Many of them came from <hi>London</hi> last night amongst which number divers apprentises, and some Citizens and others, And many of them of the County of <hi>Surrey,</hi> and <hi>Sussex,</hi> amongst which was serving men and others.</p>
+            <p>Here is also the Duke of <hi>Buckingham,</hi> and the Lord <hi>Francis</hi> his brother, whom the Horse-men say are to command them, And they say further that the Duke of <hi>Richmond,</hi> the Earle of <hi>Holland,</hi> the Earle of <hi>Peterbur<g ref="char:EOLhyphen"/>rough,</hi> and divers others, Lords and Gentle<g ref="char:EOLhyphen"/>men are amongst them, And it is said there is expected 700 to be with them this day or to morrow if they be not hindred.</p>
+            <p>They are now this morning meetng at <hi>Hounslow</hi> heath, whither divers come from the City of <hi>London,</hi> and out of the Coun<g ref="char:EOLhyphen"/>ties.</p>
+            <pb n="3" facs="tcp:161932:3"/>
+            <p>Divers of them are already here, and at <hi>Henly,</hi> and the Villages hereabouts.</p>
+            <p>The Earle of <hi>Kent</hi> was at <hi>Henly,</hi> and they came within some two houses of his Lord<g ref="char:EOLhyphen"/>ships house when he was there (for his Lord<g ref="char:EOLhyphen"/>ship came from <hi>London,</hi> and had laine there that night) But his Lordship having adver<g ref="char:EOLhyphen"/>tisements of their comming so near him, got away out of the backe-yard, and so escaped them.</p>
+            <p>They have seized on divers horses of Sir <hi>John Dinglies</hi> and others, out of their grounds and stables, for the service of the King (as they say)</p>
+            <p>Their Designe (so farre as <hi>I</hi> can learne, upon diligent inquiry) is thus (intentional<g ref="char:EOLhyphen"/>ly).</p>
+            <p>First to randezvouze (this day) after din<g ref="char:EOLhyphen"/>ner at <hi>Hare</hi>-Warren a great Moore some two miles from hence And then and there (if they be not impeaded) to receive Orders.</p>
+            <p>For which purpose here are come divers of the Kings old Officers, under whom it is supposed that they will be settled; for I be<g ref="char:EOLhyphen"/>leeve they were most of them listed before.</p>
+            <pb n="4" facs="tcp:161932:4"/>
+            <p>Having seized all the horse and Armes that they can light on (this morning) they are to mount; divers Foot come to them, and towards night (it is feared) they will sculk a<g ref="char:EOLhyphen"/>bout all grounds between this and London for what Horses they can finde, to mount the rest.</p>
+            <p>It is said that there are 3 or 400 Foot that are to seize upon Lambeth house this night, And these horse to come up and guard them and that there are 2 or 3 Drakes which they have to bee conveyed to them, (which are some whereabout London in readinesse) to be planted there, against the two Houses of Parliament, and Derby-house.</p>
+            <p>To morrow they expect to receive some Instructions from the Lord Goring (as it is said) there are other parties of horse and foot to joyne with them from London, and di<g ref="char:EOLhyphen"/>vers severall Counties.</p>
+            <p>They expect within three or foure dayes to be in a body of 2000 Horse and Foot.</p>
+            <p>When they are thus joyned, then they are (as it is said) to go to raise the seige at Col<g ref="char:EOLhyphen"/>chester, or to relieve the Cavaliers within, if they can,</p>
+            <pb n="5" facs="tcp:161932:4"/>
+            <p>There is some speeches as if they had a de<g ref="char:EOLhyphen"/>signe to attempt the surprizing of the Com<g ref="char:EOLhyphen"/>mittee, some evening as they are sitting at Derby-house if they can, before they goe to relive Colchester.</p>
+            <p>This upon the best intelligence that I can have at present (upon my diligent inquiry) is the summe of their intentions, And as for their resolutions; I know not what it may prove, but they seem to be very sterne and resolved.</p>
+            <p>They pretend to rise to fetch the King home to the Parliament, that so there may be peace, and so draw in many to them.</p>
+            <p>There is just now newes come hither (as they say) that the Common-Councell of <hi>London</hi> are gone with a Petition to the Parlia<g ref="char:EOLhyphen"/>ment for the King to come to <hi>London,</hi> and to desire a Personall Treaty.</p>
+            <p>It is also given out here that there is 30000<hi>l.</hi> ready in banke, in the hands of some that are chosen Treasurers, for the payment of the forces for the King, upon this present expe<g ref="char:EOLhyphen"/>dition.</p>
+            <p>There are divers Lords and others, that
+<pb n="6" facs="tcp:161932:5"/>are to sit in Counsell by and by (as I heare) about some Instructions to be made ready a<g ref="char:EOLhyphen"/>gainst the Randezvouze.</p>
+            <p>I am confident that within this two nights they will give an Alarme to <hi>London,</hi> either on <hi>Lambeth</hi> side, or <hi>Westminster</hi> side.</p>
+            <closer>
+               <dateline>
+                  <hi>Hampton Court</hi>
+                  <date>
+                     <hi>July</hi> 5. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="document">
+            <head>Die Martis <hi>5</hi> July, <hi>1648.</hi>
+            </head>
+            <p>THe Commons have passed an Order for the Committee of Derby House to take care for the suppressing of these Forces, And securing of Lambeth House.</p>
+            <closer>
+               <dateline>
+                  <hi>Westminster</hi>
+                  <date>
+                     <hi>the</hi> 5 <hi>of July</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
